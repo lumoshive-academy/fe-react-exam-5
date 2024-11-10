@@ -31,8 +31,8 @@ src/
 Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di lingkungan lokal:
 1. Clone Repository:
 ```bash
-git clone https://github.com/username/quiz-app.git
-cd quiz-app
+git clone https://github.com/lumoshive-academy/fe-react-exam-5.git
+cd fe-react-exam-5
 ```
 2. Instalasi Dependencies: Pastikan Anda berada di direktori proyek, kemudian jalankan:
 ```bash
